@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
- <a href="#-projetos">Projeto</a> •
+ <a href="#-projeto">Projeto</a> •
  <a href="#%EF%B8%8F-autor">Autor</a>
 </p>
 
