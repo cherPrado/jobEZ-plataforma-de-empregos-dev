@@ -15,10 +15,11 @@
 
 JobEZ é uma página de uma plataforma de empregos voltada para desenvolvedores. Nela, você pode facilmente cadastrar novas vagas, que são armazenadas em um banco de dados interno do projeto e inseridas na página através de templates em Handlebars. Além disso, com uma funcionalidade de pesquisa no campo de procura, permitindo que você encontre rapidamente as vagas desejadas. E para uma visualização mais detalhada, pode abrir cada vaga individualmente.
 
-- [x] Página inicial com as vagas que foram cadastradas no banco de dados
-- [x] Página de Cadastro de vaga em Banco de dados interno do projeto
-- [x] Pesquisa de vagas na página inicial que busca direto no banco de dados
-- [x] Acesso da vaga cadastrada
+- [x] Página inicial busca vagas cadastradas no banco de dados
+- [x] Página de Cadastro insere a nova vaga no Banco de dados interno do projeto
+- [x] Pesquisa de vagas na página inicial que busca direto no banco de dados e retorna os resultados a página
+- [x] Projeto tem as rotas em express utiliza o express-handlebars para as views
+- [x] Sequelize para utilizar o sqlite
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
