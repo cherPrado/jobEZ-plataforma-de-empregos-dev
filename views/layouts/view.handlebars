@@ -1,0 +1,17 @@
+<div id="job-view-container" class="container">
+    <div class="row text-center">
+        <a class="back-link main-color" href="/">Voltar</a>
+        <div id="img-container" class="col-md-12">
+            <img src="/imgs/svgviewer-output.svg" alt="Company">
+        </div>
+        <div class="col-md-12">
+            <h1 class="main-color">{{job.dataValues.title}}</h1>
+            <p class="bold">Quem eles estão buscando:</p>
+            <p class="job-desc">{{job.dataValues.description}}</p>
+            <p><span class="bold">O salário informado é: R${{job.dataValues.salary}}</span></p>
+            <P>Para trabalhar na <span class="bold main-color">{{job.dataValues.company}}</span> envia um 
+            e-mail para: <a href="mail:to{{job.dataValues.email}}">{{job.dataValues.email}}</a>
+            </P>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+{
+  "name": "jobez",
+  "version": "1.0.0",
+  "description": "Portal web para encontrar vagas de trabalho",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "jobs"
+  ],
+  "author": "\"Cherlau <cherlau_prado@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "sequelize": "^6.31.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
