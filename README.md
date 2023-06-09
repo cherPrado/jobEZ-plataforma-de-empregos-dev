@@ -61,6 +61,32 @@ JobEZ é uma página de uma plataforma de empregos voltada para desenvolvedores.
 
 ---
 
+## Getting Started
+
+1. Clone the repository to your local machine
+
+```bash
+    git clone git@github.com:cherPrado/JobEZ-plataforma-de-empregos-dev.git
+```
+
+2. Install the dependencies
+
+```bash
+    npm install
+```
+
+3. Start the application
+
+```bash 
+    npm run dev
+```
+
+4. Open in browser
+```bash 
+    http://localhost:3000/
+```
+---
+
 ## ✒️ Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
