@@ -4,7 +4,7 @@
   "description": "Portal web para encontrar vagas de trabalho",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "node app.js"
   },
   "keywords": [
     "jobs"
