@@ -242,3 +242,30 @@
     background-color: #F03E3E;
     color: #FFF;
 }
+
+.list-group-item .btn-primary {
+    border-radius: 8px;
+}
+
+.list-group-item .btn-primary:active,
+.list-group-item .btn-primary:hover {
+    background-color: #bd2222;
+    border-color: #bd2222;
+}
+
+.col-md-2 button[type="submit"]:hover,
+.col-md-2 button[type="submit"]:active {
+    background-color: #bd2222;
+}
+
+.back-link {
+    border-radius: 8px;
+}
+
+.nav-item .nav-link:hover {
+    background-color: #bd2222;
+}
+
+#nav-vag:hover {
+    background-color: #60616255;
+}
