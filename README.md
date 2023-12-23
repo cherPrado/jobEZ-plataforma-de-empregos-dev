@@ -90,7 +90,7 @@ JobEZ é uma página de uma plataforma de empregos voltada para desenvolvedores.
 
 ## ✒️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/0/1700061191174?e=1708560000&v=beta&t=kPf9oHrVTwE7_jCoSI6iil8rYoHxzckhSEVdbe0F3KQ" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h2 >Entre em contato 🤙🏽</h2>
